@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item android:id="@+id/relax"
+            android:title="Relax"
+            android:icon="@drawable/bath"/>
+        <item android:id="@+id/beach"
+            android:title="Beach"
+            android:icon="@drawable/beach_chair"/>
+        <item android:id="@+id/ride"
+            android:title="Ride"
+            android:icon="@drawable/cycling"/>
+        <item android:id="@+id/sight_seeing"
+            android:title="Sight Seeing"
+            android:icon="@drawable/building"/>
+        <item android:id="@+id/airplane"
+            android:title="Air Travel"
+            android:icon="@drawable/airplane"/>
+    </group>
+
+    <item android:title="User Profile">
+        <menu>
+            <group>
+                <item android:id="@+id/profile"
+                    android:title="User Profile"
+                    android:icon="@drawable/profile"/>
+                <item android:id="@+id/log_out"
+                    android:title="Log Out"
+                    android:icon="@drawable/logout"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Contact Us">
+        <menu>
+            <group>
+                <item android:id="@+id/website"
+                    android:title="Website"
+                    android:icon="@drawable/internet"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

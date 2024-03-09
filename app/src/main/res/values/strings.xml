@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="traveloo">TRAVELoO</string>
+    <string name="www_traveloo_com">www.traveloo.com</string>
+
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+
+
+
+</resources>
